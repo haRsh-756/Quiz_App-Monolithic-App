@@ -23,6 +23,7 @@ Quiz app(Monolithic application) that allows users to create quizzes, answer qui
 - Spring Data JPA
 - RESTful API design
 - PostgreSQL Database
+- Postman for API testing
 - Front-end technologies (not yet implemented)
   
 ## Usage
