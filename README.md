@@ -22,8 +22,8 @@ Quiz app(Monolithic application) that allows users to create quizzes, answer qui
 - Spring Boot
 - Spring Data JPA
 - RESTful API design
-- H2 Database (or your database of choice)
-- Front-end technologies (if applicable)
+- PostgreSQL Database
+- Front-end technologies (not yet implemented)
   
 ## Usage
 - Access the application through a web browser or API client.
