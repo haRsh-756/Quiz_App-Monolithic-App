@@ -1,7 +1,6 @@
 
 # Quiz App Using Spring boot framework
-Quiz app(Monolithic application)
-This is a Spring Boot application that allows users to create quizzes, answer quiz questions, and calculate quiz results.
+Quiz app(Monolithic application) that allows users to create quizzes, answer quiz questions, and calculate quiz results.
 
 ## Table of Contents
 
